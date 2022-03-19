@@ -1,4 +1,4 @@
-# 👋<br><br>Welcome to my profile!<br><br>I'm Aitor Leal
+# 👋 Welcome to my profile!<br><br>I'm Aitor Leal
 
 ## 🧑‍💻 Whoami<br>
 
