@@ -1,7 +1,7 @@
 Hi 👋, I'm Aitor
 =============================================================================================================================
 
-Frontend Web Developer
+Full Stack Web Developer
 ----------------------
 
 My name is Aitor and I am studying computing and communications in a FP center in Spain, I am currently specializing in web development, but I also have knowledge of Sysadmin and devops. My goal is to continue learning by creating projects, learning new technologies and starting to work.
